@@ -1,4 +1,4 @@
-# 📈 SAPM Project – Portfolio Optimization & Analysis (Part 2)
+# 📈 SAPM Project – Portfolio Optimization & Analysis
 
 This project is a continuation of Security Analysis and Portfolio Management (SAPM) and focuses on **portfolio construction, optimization, and performance evaluation** using modern portfolio theory. It covers 5 selected stocks, risk-return tradeoffs, and how they compare to the market.
 

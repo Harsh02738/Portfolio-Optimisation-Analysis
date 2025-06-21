@@ -4,16 +4,6 @@ This project is a continuation of Security Analysis and Portfolio Management (SA
 
 ---
 
-## 👥 Group Members
-
-| Name               | ID Number       |
-|--------------------|-----------------|
-| Shah Harsh Dhaval  | 2022A7PS0174P   |
-| Harsh Shah         | 2022A7PS0169P   |
-| Vairaj Desai       | 2022A4PS0545P   |
-
----
-
 ## 📁 Sheets Overview
 
 ### 🔹 Individual Stock Analysis
